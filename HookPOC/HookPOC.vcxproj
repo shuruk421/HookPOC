@@ -129,6 +129,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="HookPOC.c" />
+    <ClCompile Include="ldisasm.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ldisasm.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

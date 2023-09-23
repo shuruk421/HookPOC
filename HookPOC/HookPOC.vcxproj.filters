@@ -18,5 +18,13 @@
     <ClCompile Include="HookPOC.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ldisasm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ldisasm.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
